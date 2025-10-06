@@ -42,6 +42,9 @@ npm run dev
 - On key press (Enter or Comma), tag gets added
 - Clicking X dispatches a remove action
 
+  ## Resource
+  link: https://docs.google.com/document/d/1RLm7Q_iSxMfEYSsNTBzSmzjH1tPEshMgJBRpFQdMiy0/edit?usp=sharing
+
 
 
 https://github.com/user-attachments/assets/5be51df0-5540-4138-b1b6-662df27a204b
